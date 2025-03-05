@@ -22,6 +22,6 @@ st.markdown(f'<span style="text-align: justify; font-size:20px; color:#242320;">
 
 #st.divider()
 
-pay_instruction = "(Buy Andy a coffee with the QR code!)"
+pay_instruction = "(Buy Andy a coffee with a PayNow QR code or at PayNow him at 94235231!)"
 st.markdown(f'<span style="text-align: justify; font-size:15px; color:#242320;">{pay_instruction}</span>', unsafe_allow_html=True)
 st.image('paynowME.jpeg', width=250)
